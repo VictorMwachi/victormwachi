@@ -27,10 +27,10 @@
 
 ```javascript
 const developerProfile = {
-  name: "[Your Name]",
+  name: "Victor Mwachi",
   role: "Backend Engineer",
   education: "BSc Computer Science, ALX ProDev Backend Engineering",
-  location: "[Your City, Country]",
+  location: "[Nairobi, Kenya]",
   technologies: {
     languages: ["Python", "JavaScript", "SQL", "GraphQL"],
     backend: ["Django", "Flask", "Node.js"],
@@ -75,16 +75,16 @@ const developerProfile = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/airbnb-clone">
+  <a href="https://github.com/victormwachi/airbnb-clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=airbnb-clone&theme=dark" />
   </a>
-  <a href="https://github.com/yourusername/bookkeeping-app">
+  <a href="https://github.com/victormwachi/bookkeeping-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=bookkeeping-app&theme=dark" />
   </a>
-  <a href="https://github.com/yourusername/chat-application">
+  <a href="https://github.com/victormwachi/chat-application">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=chat-application&theme=dark" />
   </a>
-  <a href="https://github.com/yourusername/fintech-solution">
+  <a href="https://github.com/victormwachi/fintech-solution">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=fintech-solution&theme=dark" />
   </a>
 </div>
@@ -143,9 +143,9 @@ A secure financial technology application that facilitates digital payments, acc
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=victormwachi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victormwachi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormwachi&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
