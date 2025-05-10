@@ -1,7 +1,7 @@
 <!-- HEADER SECTION -->
 <div align="center">
   <img src="https://your-banner-image-url.jpg" alt="Your Name Banner" width="100%">
-  <h1>👋 Hello, I'm [Your Name]</h1>
+  <h1>👋 Hello, I'm Victor Mwachi</h1>
   <p><em>Backend Engineer | Problem Solver | ALX ProDev Graduate</em></p>
   
   <!-- SOCIAL BADGES -->
