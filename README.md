@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://your-banner-image-url.jpg" alt="Your Name Banner" width="100%">
+  <img src="https://your-banner-image-url.jpg" alt="Victor Mwachi" width="100%">
   <h1>👋 Hello, I'm Victor Mwachi</h1>
   <p><em>Backend Engineer | Problem Solver | ALX ProDev Graduate</em></p>
   
